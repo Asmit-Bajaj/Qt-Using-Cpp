@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>C:/Users/Hp/Downloads/sound.mp3</file>
+        <file>C:/Users/Hp/Downloads/bullet.wav</file>
+    </qresource>
+</RCC>
